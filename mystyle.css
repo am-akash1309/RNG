@@ -1,0 +1,29 @@
+.heading{
+    font-size: 80;
+    font-weight: bold;
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
+
+.cont{
+    font-size: 100;
+    font-weight: bold;
+    padding: 50px 0px 50px 0px;
+    color: navy;
+}
+
+.press{
+    background-color: lightcoral;
+    border-radius: 9px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.press:hover{
+    background-color: lightpink;
+}
+
+.btnrow {
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
